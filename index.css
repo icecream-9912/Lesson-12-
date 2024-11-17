@@ -1,0 +1,22 @@
+img{
+    width:500px;
+    height: 600px;
+}
+h4
+{
+    bottom:0;
+    position: sticky;
+    background: purple;
+    opacity: 0.8;
+}
+h5 {
+    bottom: 0;
+    position: fixed;
+    background: aqua;
+}
+h1{
+    top:0;
+    position: absolute;
+    background: palevioletred;
+    width:100%;
+}

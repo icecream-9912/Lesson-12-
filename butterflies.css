@@ -1,0 +1,24 @@
+img
+{
+    height:500px ;
+    width: 550px;
+}
+h1{
+    top: 0;
+    position: absolute;
+    width: 100%;
+    background: #e872f0;
+}
+
+h4{
+    bottom: 0;
+    position: fixed;
+    background:#ffa0cd;
+    text-align: center;
+    width: 100%;
+}
+h3{
+    position: sticky;
+    background-color: #b4f7f9;
+    bottom: 0;
+}
